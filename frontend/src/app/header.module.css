@@ -1,0 +1,15 @@
+.header {
+    padding: 15px;
+    background-color: gray;
+}
+
+.siteTitleLink {
+    text-decoration: none;
+}
+
+.siteTitle {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}

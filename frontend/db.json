@@ -1,0 +1,119 @@
+{
+    "boards": [
+        {
+            "id": 1,
+            "name": "Board 1",
+            "description": "Board 1 description"
+        },
+        {
+            "id": 2,
+            "name": "Board 2",
+            "description": "Board 2 description"
+        },
+        {
+            "id": 3,
+            "name": "Board 3",
+            "description": "Board 3 description"
+        }
+    ],
+    "lists": [
+        {
+            "id": 1,
+            "name": "list 1",
+            "boardId": 1
+        },
+        {
+            "id": 2,
+            "name": "list 2",
+            "boardId": 1
+        },
+        {
+            "id": 3,
+            "name": "list 3",
+            "boardId": 1
+        },
+        {
+            "id": 4,
+            "name": "list 4",
+            "boardId": 2
+        },
+        {
+            "id": 5,
+            "name": "list 5",
+            "boardId": 2
+        },
+        {
+            "id": 6,
+            "name": "list 6",
+            "boardId": 3
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "title": "card 1",
+            "description": "card 1 description",
+            "listId": 1
+        },
+        {
+            "id": 2,
+            "title": "card 2",
+            "description": "card 2 description",
+            "listId": 1
+        },
+        {
+            "id": 3,
+            "title": "card 3",
+            "description": "card 3 description",
+            "listId": 1
+        },
+        {
+            "id": 4,
+            "title": "card 4",
+            "description": "card 4 description",
+            "listId": 2
+        },
+        {
+            "id": 5,
+            "title": "card 5",
+            "description": "card 5 description",
+            "listId": 2
+        },
+        {
+            "id": 6,
+            "title": "card 6",
+            "description": "card 6 description",
+            "listId": 3
+        },
+        {
+            "id": 7,
+            "title": "card 7",
+            "description": "card 7 description",
+            "listId": 4
+        },
+        {
+            "id": 8,
+            "title": "card 8",
+            "description": "card 8 description",
+            "listId": 4
+        },
+        {
+            "id": 9,
+            "title": "card 9",
+            "description": "card 9 description",
+            "listId": 5
+        },
+        {
+            "id": 10,
+            "title": "card 10",
+            "description": "card 10 description",
+            "listId": 5
+        },
+        {
+            "id": 11,
+            "title": "card 11",
+            "description": "card 11 description",
+            "listId": 6
+        }
+    ]
+}
